@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/comp426-2022-spring/a00-skylerwon/issues"
   },
-  "homepage": "https://github.com/comp426-2022-spring/a00-skylerwon#readme"
+  "homepage": "https://github.com/comp426-2022-spring/a00-skylerwon#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.7",
+    "browsersync": "^0.0.1-security"
+  }
 }
